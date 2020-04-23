@@ -163,13 +163,9 @@ html {
   top: 6px;
 }
 
-/* 
-  picture {
-     position: relative;
-    top: -6px;
-    position: relative;
-    top: 18px;
-  } */
+.image2 {
+  width: 100%;
+}
 
 .footer {
   display: flex;
