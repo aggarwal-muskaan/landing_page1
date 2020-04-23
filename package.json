@@ -1,0 +1,17 @@
+{
+  "name": "landing_page1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://aggarwal-muskaan.github.io/landing_page1",
+  "scripts": {
+    "deploy": "gh-pages -d mywebsite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
